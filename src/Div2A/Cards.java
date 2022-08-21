@@ -3,6 +3,8 @@ package Div2A;
 import java.util.*;
 import java.util.stream.IntStream;
 
+// problem url : https://codeforces.com/contest/1220/problem/A
+
 public class Cards {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);

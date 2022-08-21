@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b30cba03-b8c7-4dc7-b561-e89e7eb4212a" name="Changes" comment="Problem Cards Solved">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Div2A/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Div2A/BetweenOffices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Div2A/Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Div2A/Cards.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BetweenOffices">
+    <configuration name="BetweenOffices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Div2A.BetweenOffices" />
+      <module name="cp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Div2A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Div2A.Cards" />
       <module name="cp" />
@@ -59,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BetweenOffices" />
         <item itemvalue="Application.Cards" />
       </list>
     </recent_temporary>
@@ -72,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661064516776</updated>
     </task>
+    <task id="LOCAL-00001" summary="Problem Cards Solved">
+      <created>1661065780873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661065780873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
